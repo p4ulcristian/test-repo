@@ -22,7 +22,7 @@ module.exports = (event, context) => {
             .fail("Unknown short URL");
     }
 
-    /* 302 Moved Temporarily
+    /* 302 Moveddsadsad Temporarily
      * Prevents the browser from caching the redirection
      * https://en.wikipedia.org/wiki/HTTP_302 */
     context
