@@ -5,7 +5,5 @@ provider:
 functions:
   goto:
     lang: node10-express
-    handler: ./goto
-    image: goto:latest
-
-
+    handler: ./test-repo
+    image: test-repo:latest
