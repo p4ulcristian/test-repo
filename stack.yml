@@ -6,4 +6,4 @@ functions:
   goto:
     lang: node10-express
     handler: ./test-repo
-    image: goto:latest
+    image: test-repo:latest
